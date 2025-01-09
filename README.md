@@ -1,5 +1,5 @@
 
-![hbnb_logo](https://github.com/Seyiranky/alu-AirBnB_clone/assets/116743995/75a38f15-7eb0-43ec-a0bc-f27622d67b9a)
+(https://github.com/Seyiranky/alu-AirBnB_clone/assets/116743995/75a38f15-7eb0-43ec-a0bc-f27622d67b9a)
 
 
 # AirBnB clone - The console
