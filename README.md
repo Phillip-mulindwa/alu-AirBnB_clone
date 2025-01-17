@@ -5,7 +5,7 @@
 # AirBnB clone - The console
 
 ### First step: Write a command interpreter to manage your AirBnB objects.
-This is the first step towards building our first full web application: the **AirBnB clone**. This first step is very important because we will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
+This marks the beginning of creating our first complete web application: the **AirBnB clone**. This initial phase is crucial, as the foundation you build in this project will be utilized in all subsequent projects, including HTML/CSS templating, database storage, API development, and front-end integration.
 
 Each task is linked and will help you to:
 - put in place a parent class (called `BaseModel`) to take care of the initialization, serialization and deserialization of your future instances
